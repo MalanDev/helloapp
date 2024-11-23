@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="login">Login</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Music fragment</string>
+    <string name="hello_book_fragment">Hello Book fragment</string>
+    <string name="book">Book</string>
+    <string name="music">Music</string>
+
+</resources>
